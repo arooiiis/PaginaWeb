@@ -13,7 +13,7 @@ Para añadir un fichero a nuestro repositorio remoto de [GitHub](https://github.
 
 El logo de GitHub es el siguente 
 
-![Logo GitHub]https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg)
+![Logo GitHub](https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg)
 
 
 ``` console
